@@ -1,4 +1,4 @@
-# Blur Servers
+# Blur Serverlist
 a snippet that blurs servers for whatever reason
 
 ```css
